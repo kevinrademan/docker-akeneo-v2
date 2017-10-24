@@ -24,3 +24,8 @@ Run these docker-compose commands from the /src folder
     
 ## Interface
 * Login initial: admin / admin
+
+
+## Thanks
+@s7b4 for the great Akeneo 1.7 containers
+https://github.com/s7b4/docker-akeneo
