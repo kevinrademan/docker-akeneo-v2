@@ -6,8 +6,8 @@ Docker container for the new V2 release of Akeneo
 * [token Github](https://github.com/settings/tokens)
 
 ## Enviroment variables
-Make a copy of the .env.dist and rename it to .env. Ensure that the following variables
-are set to your p
+Make a copy of the .env.dist and rename it to .env.
+Ensure that the following variables are set to your prefrence
 
 * MYSQL_HOST: mysql host string (default: mysql)
 * MYSQL_DATABASE: mysql database name (default: akeneo_pim)
